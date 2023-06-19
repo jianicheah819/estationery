@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/customer-register.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/admin-view-customers.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/dashboard.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/admin-delete-product.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/index.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/my-orders.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/src/java/AddReview.java</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/src/java/com/connection/DatabaseConnection.java</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/add-review-process.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/add-review.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/src/java/AddProducts.java</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/admin-all-orders.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/admin-edit-product-process.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/src/java/AddToCart.java</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/src/java/DeleteReview.java</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/header.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/review.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/admin-login.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/admin-pending-orders.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/customer-login.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/admin-logout.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/src/java/AdminLogin.java</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/admin-view-product.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/products.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/adminHeader.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/footer.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/src/java/GetProductOrders.java</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/src/java/UpdateProductQuantity.java</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/src/java/CustomerProductsOrderStatus.java</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/src/java/CustomerLogin.java</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/checkout.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/admin-delivered-orders.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/admin-edit-product.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/src/java/AddCustomer.java</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/logout.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/delete-review.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/admin-add-product.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/removeProductFromCart.jsp</file>
+            <file>file:/C:/Users/HP/Downloads/OnlineShoppingSystem/web/WEB-INF/web.xml</file>
+        </group>
+    </open-files>
+</project-private>
